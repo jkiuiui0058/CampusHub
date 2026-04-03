@@ -44,6 +44,7 @@
   - `[AI-assisted]`：表示该 commit 包含 AI 生成内容
   - `[Human-written]`：表示该 commit 为人工编写
   - '[Both]': 表示二者皆有参与
+  - '[ ]': 特殊情况简单说明
 - 每阶段结束后，在 `docs/ai_use_reflections/` 目录下填写《AI 协作反思日志》
 
 ---
