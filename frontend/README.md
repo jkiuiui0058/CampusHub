@@ -8,19 +8,19 @@
 
 ## 前端结构
 
+```test
 frontend/
 ├── public/           # 静态资源
 ├── src/
 │   ├── assets/       # 样式、图片、字体
 │   ├── components/   # 公共组件
-│   └── main.js       # 入口文件
+│   ├── main.js       # 入口文件
 │   └── App.vue       # 根组件
-├─  package.json
-├─  eslint.config.js  # 代码规范
-├─  index.html        # 页面入口
-└─  vite.config.js    # Vite配置
-
-
+├── package.json
+├── eslint.config.js  # 代码规范
+├── index.html        # 页面入口
+└── vite.config.js    # Vite配置
+```
 
 ## 快速开始
 

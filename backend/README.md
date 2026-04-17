@@ -9,18 +9,20 @@
 
 ## 项目结构
 
+```text
 backend/
-├─ src/main/java/com/campushub
-│  ├─ controller/    控制层
-│  ├─ service/       业务层
-│  ├─ mapper/        数据访问层（预留）
-│  ├─ config/        配置类
-│  └─ common/        公共模块
+├─ src/main/java/com/campushub/
+│  ├─ controller/      # 控制层
+│  ├─ service/         # 业务层
+│  ├─ mapper/          # 数据访问层（预留）
+│  ├─ config/          # 配置类
+│  └─ common/          # 公共模块
 ├─ src/main/resources/
 │  └─ application.yml
-|— checkstyle.xml    代码规范
-├─ pom.xml           Maven配置
-└─ mvnw              Maven Wrapper
+├─ checkstyle.xml      # 代码规范
+├─ pom.xml             # Maven 配置
+└─ mvnw                # Maven Wrapper
+```
 
 ## 启动方式
 启动主启动类
